@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Vipisanan 👋
 
-<!--
-**Vipisanan/Vipisanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a software developer with a passion for creating amazing applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, Jenkins
+
+## 📫 How to reach me
+- **Email**: [your-email@example.com]vipisanan@proton.me)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/vipisanan)
+- **Twitter**: [@your_twitter](https://twitter.com/EVipisanan)
+
+## 🌟 Projects
+- [Unit Test]([https://github.com/Vipisanan/project1](https://github.com/Vipisanan/Simple-TDD-Spring-boot-app)) - 
+
+Thank you for visiting my profile!

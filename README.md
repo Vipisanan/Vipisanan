@@ -1,21 +1,23 @@
-# Hi there, I'm Vipisanan 👋
+# 👋 Hi, I'm Vipisanan!
 
-Welcome to my GitHub profile! Here's a little about me:
+🚀 **About Me**  
+- 💻 Full Stack Developer (ReactJS & Spring Boot)  
+- 📚 Currently learning **AWS, Web3, and Microservices**  
+- 🏆 Aspiring entrepreneur & tech enthusiast  
 
-## 🚀 About Me
-I'm a software developer with a passion for creating amazing applications and learning new technologies.
+🌐 **Find Me Online**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
+  
 
-## 🛠 Skills
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Jenkins
+🛠 **Tech Stack**  
+- 🚀 Languages: Java, JavaScript, TypeScript  
+- 🔥 Frameworks: Spring Boot, ReactJS  
+- 🛢 Databases: MySQL, PostgreSQL, MongoDB  
+- ☁️ Cloud: AWS (EC2, S3, Lambda, DynamoDB)  
 
-## 📫 How to reach me
-- **Email**: [your-email@example.com]vipisanan@proton.me)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/vipisanan)
-- **Twitter**: [@your_twitter](https://twitter.com/EVipisanan)
+📈 **GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipisanan&show_icons=true&theme=dark)  
 
-## 🌟 Projects
-- [Unit Test]([https://github.com/Vipisanan/project1](https://github.com/Vipisanan/Simple-TDD-Spring-boot-app)) - 
 
-Thank you for visiting my profile!
+[![An image of @vipisanan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vipisanan)](https://holopin.io/@vipisanan)

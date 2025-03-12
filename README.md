@@ -6,8 +6,8 @@
 - 🏆 Aspiring entrepreneur & tech enthusiast  
 
 🌐 **Find Me Online**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vipisanan/)  
+- 🐦 [Twitter](https://twitter.com/@EVipisanan)  
   
 
 🛠 **Tech Stack**  

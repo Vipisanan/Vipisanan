@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Vipisanan!
+![Profile Views](https://komarev.com/ghpvc/?username=vipisanan&color=blue)
+
 
 🚀 **About Me**  
 - 💻 Full Stack Developer (ReactJS & Spring Boot)  

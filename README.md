@@ -11,7 +11,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vipisanan/)  
 - 🐦 [Twitter](https://twitter.com/@EVipisanan)
 
-  
+<!--  
 ### 🏆 Licenses & Certifications  
 
 1. #### Java Spring Framework 6 with Spring Boot 3  
@@ -41,7 +41,7 @@
 - 📜 [View Certificate](https://verified.sertifier.com/en/verify/88851553657687/)  
 - **Skills:** Teamwork, Engineering  
 
-  
+ -->
 
 🛠 **Tech Stack**  
 - 🚀 Languages: Java, JavaScript, TypeScript  
